@@ -20,7 +20,7 @@
     align-content: center;
     position: absolute;
     left: 125px;
-    top: 300px;
+    top: 325px;
     
 }
 
@@ -29,6 +29,14 @@ body{
 }
 
 button{
-    border-radius: 45%;
+    border-radius: 40%;
     background-color: #FFB8B8;
+}
+
+.numeros{
+    
+    align-content: center;
+    position: absolute;
+    left: 200px;
+    top: 250px;
 }
