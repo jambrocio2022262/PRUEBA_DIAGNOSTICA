@@ -1,0 +1,21 @@
+.container{
+    background-color: antiquewhite;
+    height: 400px;
+    width: 600PX;
+    align-content: center;
+    position: absolute;
+    left: 650PX;
+    top: 300px;
+
+}
+
+.letra{
+   background-color: white;
+   text-align: center;
+}
+
+.abecedario{
+    margin-top: 300px;
+    background-color: aliceblue;
+    align-content: center;
+}
