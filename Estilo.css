@@ -1,5 +1,5 @@
 .container{
-    background-color: antiquewhite;
+    background-color: #B8FFFD;
     height: 400px;
     width: 600PX;
     align-content: center;
@@ -10,12 +10,25 @@
 }
 
 .letra{
-   background-color: white;
+   background-color:#FFB8B8;;
    text-align: center;
 }
 
 .abecedario{
-    margin-top: 300px;
-    background-color: aliceblue;
+    width: 700px;
+    height: 500px;
     align-content: center;
+    position: absolute;
+    left: 125px;
+    top: 300px;
+    
+}
+
+body{
+    background-color: #BEFFB8;
+}
+
+button{
+    border-radius: 45%;
+    background-color: #FFB8B8;
 }
